@@ -1,3 +1,7 @@
+***Before you try to run the code you need to save images to their respective spots***
+all the food images in - "products" folder
+and user image in - "review" folder
+
 Welcome to the README file for the Cafe Front-End Website Internship Project. This document provides an overview of the project, its goals, features, technologies used, and instructions for setting up and running the project.
 
 Project Overview
@@ -22,12 +26,11 @@ The project will be developed using the following technologies:
 HTML5: For creating the structure of the web pages.
 CSS3: For styling and layout of the website, ensuring a visually appealing design.
 JavaScript: To add interactivity and dynamic elements to the website.
-
 Contributions:
 Contributions to the project are welcome. If you have any suggestions, bug fixes, or improvements, please feel free to create a pull request.
 
 project developed by:
-Harsh J Patel		-226120316043
-Ved A Patel		-226120316048
-Krunal B Rathod		-226120316057
-Prabhat V Dholakia	-226120316012
+Harsh J Patel		
+Ved A Patel		
+Krunal B Rathod		
+Prabhat V Dholakia	
